@@ -1,0 +1,115 @@
+Cmp-Mod V01 Created by CvPcb (22-Jun-2014 BZR 4027)-stable date = Sat 28 Feb 2015 18:49:43 CET
+
+BeginCmp
+TimeStamp = /54DE0F12;
+Reference = C1;
+ValeurCmp = 220uF;
+IdModule  = CTOP;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DE0FCB;
+Reference = K1;
+ValeurCmp = AUX0;
+IdModule  = PIN_ARRAY_3X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DE0FD1;
+Reference = K2;
+ValeurCmp = AUX1;
+IdModule  = PIN_ARRAY_3X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DE0FD7;
+Reference = K3;
+ValeurCmp = M0;
+IdModule  = PIN_ARRAY_3X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DE11AA;
+Reference = K4;
+ValeurCmp = M1;
+IdModule  = PIN_ARRAY_3X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DE11B0;
+Reference = K5;
+ValeurCmp = M2;
+IdModule  = PIN_ARRAY_3X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DE11B6;
+Reference = K6;
+ValeurCmp = M3;
+IdModule  = PIN_ARRAY_3X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DE0E5C;
+Reference = P1;
+ValeurCmp = 5Vin;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DE1003;
+Reference = P2;
+ValeurCmp = TELE;
+IdModule  = PIN_ARRAY_4x1;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DE1236;
+Reference = P3;
+ValeurCmp = GPS;
+IdModule  = PIN_ARRAY_4x1;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DE123C;
+Reference = P4;
+ValeurCmp = DIST;
+IdModule  = PIN_ARRAY_4x1;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DE11F6;
+Reference = P5;
+ValeurCmp = BATT;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DE1214;
+Reference = R1;
+ValeurCmp = 100k;
+IdModule  = R1;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DE1221;
+Reference = R2;
+ValeurCmp = 33k;
+IdModule  = R1;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DE0E02;
+Reference = U1;
+ValeurCmp = TEENSY-3.1;
+IdModule  = teensy-3.1;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DDF274;
+Reference = U2;
+ValeurCmp = ADAFRUIT-10DOF;
+IdModule  = adafruit-10dof;
+EndCmp
+
+EndListe

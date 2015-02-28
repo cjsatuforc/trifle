@@ -1,0 +1,31 @@
+PCBNEW-LibModule-V1  Fri 13 Feb 2015 17:12:31 CET
+# encoding utf-8
+Units mm
+$INDEX
+CTOP
+$EndINDEX
+$MODULE CTOP
+Po 0 0 0 15 54DE222F 00000000 ~~
+Li CTOP
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -5.08 1 1 0 0.15 N V 21 N "CT9"
+T1 0 5.08 1 1 0 0.15 N V 21 N "C**"
+DC 0 0 4.445 0 0.15 21
+$PAD
+Sh "1" C 1.5 1.5 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.27 0
+$EndPAD
+$PAD
+Sh "2" C 1.5 1.5 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1.27 0
+$EndPAD
+$EndMODULE CTOP
+$EndLIBRARY
